@@ -1,0 +1,55 @@
+﻿Mat Mil Office
+
+Funktionen:
+
+Einbuchen mit/ohne Nummer
+Ausbuchen mit/ohne Nummer
+Detail Etat Verlinken
+Detail Etat drucken
+Kontakte Importieren 
+Kontakte Exportieren 
+Kontakte Löschen
+DB Export
+________________________________________________________________________
+
+Daten in der Datenbank:
+
+Übersichtstabelle
+-------------------------------
+Bezeichnung
+ALN-Nr.
+Mat-Nr.
+SAP-Nr.
+Etat-Nr.
+Geheim/Sensitiv
+-------------------------------
+
+NummernListe
+-------------------------------
+ALN-Nr.
+Mat-Nr.
+Mat-Nr. Master
+
+-------------------------------
+
+Ausgänge
+-------------------------------
+Kontakt.Nr.
+ALN-Nr.
+Mat-Nr.
+Datum
+-------------------------------
+Retouren
+-------------------------------
+ALN-Nr.
+Mat-Nr.
+Datum
+-------------------------------
+
+Kontakte
+-------------------------------
+Name
+ALN-Nr.
+Mat-Nr.
+
+-------------------------------
