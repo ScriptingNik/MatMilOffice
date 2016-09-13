@@ -49,7 +49,10 @@ Datum
 Kontakte
 -------------------------------
 Name
-ALN-Nr.
-Mat-Nr.
+Vorname
+Kompanie 
+Zug
+Telefonnummer
+
 
 -------------------------------
